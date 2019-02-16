@@ -13,3 +13,24 @@ body{
   /* margin-left: 25px;
   margin-right: 25px; */
 }
+.inp{
+  /* display: flex;
+  align-items: left; */
+  background-color: white;
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 5px 5px #424242;
+  float: left;
+  margin-right: 80px;
+  margin-bottom: 60px;
+}
+.con{
+  background-color: #795548;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: sans-serif;
+  width: 130px;
+  /* float: left; */
+}
