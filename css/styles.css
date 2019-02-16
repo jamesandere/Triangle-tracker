@@ -5,3 +5,11 @@ body{
   /* height: 400px;
   width: 500px; */
 }
+.container{
+  color: black;
+  margin-left: 200px;
+  font-family: 'Playfair Display', serif;
+  /* width: 50%; */
+  /* margin-left: 25px;
+  margin-right: 25px; */
+}
