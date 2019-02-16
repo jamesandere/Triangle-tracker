@@ -1,21 +1,13 @@
-body{
-  /* background-image: url('../images/background.jpg');
-   */
+  body{
    background-color: #00796B;
-  /* height: 400px;
-  width: 500px; */
-}
+ }
 .container{
   color: black;
   margin-left: 200px;
   font-family: 'Playfair Display', serif;
-  /* width: 50%; */
-  /* margin-left: 25px;
-  margin-right: 25px; */
-}
-.inp{
-  /* display: flex;
-  align-items: left; */
+  }
+
+ .inp{
   background-color: white;
   background-size: cover;
   height: 400px;
@@ -32,26 +24,19 @@ body{
   padding: 5px;
   font-family: sans-serif;
   width: 130px;
-  /* float: left;  */
-}
+ }
+
 .fom{
   margin-left: 20px;
   margin-top: 20px;
 
 }
-/* .put{
-  margin: 5px;
-  border-radius: 3px;
-  padding: 10px; */
-}
+
 h1{
 font-family: 'Playfair Display', serif;
 font-family: 'Abril Fatface', cursive;
 }
-/* .flo {
-  display: flex;
-  justify-content: space-around;
-} */
+
 #A, #B, #C{
   border-radius: 5px;
   padding: 5px;
