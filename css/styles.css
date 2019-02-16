@@ -39,3 +39,20 @@ body{
   margin-top: 20px;
 
 }
+/* .put{
+  margin: 5px;
+  border-radius: 3px;
+  padding: 10px; */
+}
+h1{
+font-family: 'Playfair Display', serif;
+font-family: 'Abril Fatface', cursive;
+}
+/* .flo {
+  display: flex;
+  justify-content: space-around;
+} */
+#A, #B, #C{
+  border-radius: 5px;
+  padding: 5px;
+}
