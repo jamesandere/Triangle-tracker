@@ -25,3 +25,4 @@ else{
   document.getElementById("img").innerHTML ="";
   }
 }
+}
