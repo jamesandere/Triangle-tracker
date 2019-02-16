@@ -1,7 +1,7 @@
 body{
   /* background-image: url('../images/background.jpg');
    */
-   background-color: #795548;
+   background-color: #00796B;
   /* height: 400px;
   width: 500px; */
 }
@@ -27,12 +27,12 @@ body{
   margin-bottom: 60px;
 }
 .con{
-  background-color: #795548;
-  border-radius: 5px;
+  background-color: #009688;
+  border-radius: 10px;
   padding: 5px;
   font-family: sans-serif;
   width: 130px;
-  /* float: left; */
+  /* float: left;  */
 }
 .fom{
   margin-left: 20px;
@@ -54,5 +54,15 @@ font-family: 'Abril Fatface', cursive;
 } */
 #A, #B, #C{
   border-radius: 5px;
+  padding: 5px;
+  box-shadow: 2px 2px #424242;
+}
+#C{
+  margin-bottom: 20px;
+}
+.inst{
+  font-family: sans-serif;
+}
+ol>li{
   padding: 5px;
 }
