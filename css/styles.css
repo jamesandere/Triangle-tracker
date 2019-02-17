@@ -1,5 +1,6 @@
 body{
-   background-color: #00796B;
+   /* background-color: #00796B; */
+   background-image: url("https://wallpaperplay.com/walls/full/5/6/1/157832.jpg");
  }
 
  .container{
@@ -54,6 +55,7 @@ body{
 
    .inst{
   font-family: sans-serif;
+  font-size: 20px;
 }
 
 ol>li{
