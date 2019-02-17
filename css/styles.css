@@ -37,3 +37,35 @@ body{
      margin-top: 20px;
 
    }
+
+   h1{
+   font-family: 'Playfair Display', serif;
+   font-family: 'Abril Fatface', cursive;
+   }
+
+   #A, #B, #C{
+     border-radius: 5px;
+     padding: 5px;
+     box-shadow: 2px 2px #424242;
+   }
+   #C{
+     margin-bottom: 20px;
+   }
+
+   .inst{
+  font-family: sans-serif;
+}
+
+ol>li{
+  padding: 5px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: brown;
+    color: white;
+    }
+    .con{
+      background-color: brown;
+    }
+}
