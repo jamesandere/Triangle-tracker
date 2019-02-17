@@ -8,9 +8,13 @@ jamesandere
 A user will be able to input values and get to know whether they can form a triangle or not.
 # BDD
 If a user enters a value that is not a number, the app will inform them that it is not a number.
+
 If a user enters three similar values, it will indicate that an Equilateral triangle can be formed.
+
 If a user enters two similar values that are different from the other, it indicates that it is an Isosceles triangle.
+
 If a user enters three different values, it indicates that it will form a Scalene triangle.
+
 Any other entry will indicate that it will not form a triangle.
 # Live link
 url: https://jamesandere.github.io/Triangle-tracker/
