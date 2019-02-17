@@ -1,5 +1,5 @@
 # Triangle-tracker
-It is an application that shows whether a triangle is equilateral, isosceles, scalene or whether it is a triangle at all.
+  It is an application that shows whether a triangle is equilateral, isosceles, scalene or whether it is a triangle at all.
 # Date of current version
 15 February 2019
 # List of contributors

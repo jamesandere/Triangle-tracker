@@ -24,7 +24,7 @@ else{
     }
     else{
         document.getElementById("output").innerHTML ="This is not a triangle!";
-        document.getElementById("img").src ="https://image.flaticon.com/icons/svg/151/151882.svg";
+          document.getElementById("img").src ="https://image.flaticon.com/icons/svg/151/151882.svg";
       }
     }
     }
