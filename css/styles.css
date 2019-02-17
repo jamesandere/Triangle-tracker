@@ -1,5 +1,6 @@
 body{
-   background-color: #00796B;
+  background-image: url("https://wallup.net/wp-content/uploads/2017/05/29/379544-gold-fantasy_art-pyramid-748x421.jpg");
+  background-size: cover;
  }
 
  .container{
@@ -21,7 +22,7 @@ body{
    }
 
    .con{
-     background-color: #009688;
+     background-color: #212121;
      border-radius: 10px;
      padding: 5px;
      font-family: sans-serif;
@@ -54,6 +55,7 @@ body{
 
    .inst{
   font-family: sans-serif;
+  font-size: 20px;
 }
 
 ol>li{
