@@ -1,6 +1,5 @@
 body{
-   /* background-color: #00796B; */
-   background-image: url("https://wallpaperplay.com/walls/full/5/6/1/157832.jpg");
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.hdwallpaper.nu/wp-content/uploads/2017/02/pyramid-19.jpg");
  }
 
  .container{
@@ -22,7 +21,7 @@ body{
    }
 
    .con{
-     background-color: #1976D2;
+     background-color: #212121;
      border-radius: 10px;
      padding: 5px;
      font-family: sans-serif;
